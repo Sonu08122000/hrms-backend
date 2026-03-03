@@ -9,3 +9,5 @@ services:
         sync: false   # Set this manually in Render dashboard (use MongoDB Atlas URI)
       - key: DB_NAME
         value: hrms_lite
+      - key: PYTHON_VERSION
+        value: 3.11.9
