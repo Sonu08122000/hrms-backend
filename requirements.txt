@@ -3,3 +3,4 @@ uvicorn[standard]==0.32.1
 pymongo==4.10.1
 pydantic[email]==2.10.3
 python-dotenv==1.0.1
+pydantic-core==2.27.1 
